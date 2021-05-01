@@ -1,0 +1,1 @@
+echo This is command line print $1 $2 $3
